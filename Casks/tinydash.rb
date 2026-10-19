@@ -1,6 +1,6 @@
 cask "tinydash" do
-  version "0.6.2"
-  sha256 "7748d6256bf8e36f6d3f0bc064f7a972f028a38f18cf069abed06b06ab4c976f"
+  version "0.7.0"
+  sha256 "df50d6a03d2ba34dd50fc5de7ced2f74f112782cbec0b638c7a3ce06f92fc413"
 
   url "https://github.com/jewei/tinydash/releases/download/v#{version}/TinyDash_#{version}_universal.dmg"
   name "TinyDash"
